@@ -14,7 +14,7 @@ public class EmployeeWageComp {
 								// Print Program Name
 		           System.out.println("\nWelcome to Employee Wage Computation Program");
 		          
-		           				//Check Employee is Present , Absent Or Half Time  By using Random 
+		           				// Employee Wage Calculation as per Present, Absent Or Half Time  By using "Switch" 
 		           switch((int)RANDOM){
 		           						//Employee is Absent
 		           		case 0:     	
